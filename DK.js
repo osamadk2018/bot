@@ -313,4 +313,4 @@ client.on('message',function(message) {
 
 
 
-client.login('NDUyMjA4NzYwNTUxNzY4MDY1.DfwkDg.IR9Q6t0r_xkw-kj2yIa98daCKsM');
+client.login(process.env.BOT_TOKEN);
